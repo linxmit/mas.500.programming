@@ -1,0 +1,16 @@
+# api tokens
+01_trying_out_media_cloud/mediacloud_api_token.py
+
+
+#
+# directories
+#
+venv/
+.ipynb_checkpoints/
+
+
+#
+# binaries
+#
+
+*.pyc
